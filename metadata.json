@@ -1,0 +1,9 @@
+{
+  "name": "Jarvis - Personal AI Assistant",
+  "description": "A web-based AI chat assistant named Jarvis that allows users to interact with a Gemini model through text and voice.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
